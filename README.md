@@ -1,5 +1,6 @@
-1. Bilangan Terbesar
-Penjelasan Code
+## **1. Bilangan Terbesar** ##
+
+**Penjelasan Code**
 
 def mencari_bilangan_terbesar(a, b, c):
     if a > b:
