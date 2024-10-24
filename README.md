@@ -33,8 +33,8 @@ Lalu di Program utamanya kita masukkan angka yang harus dimasukkan oleh user
 Lalu kita panggil kembali function mencari_biilangan_terbesar
 Lalu Output bilangan terbesar dari ketiga bilangan yang di input akan muncul
 
-2. Bilangan N
-Penjelasan code
+## **2. Bilangan N** ##
+**Penjelasan code**
 
 # Input number of elements
 N = int(input("Masukkan jumlah bilangan: "))
