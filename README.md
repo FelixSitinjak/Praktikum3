@@ -4,12 +4,12 @@ Program pertama yang akan dibuat adalah Program untuk menampilkan bilangan terbe
 
 Berikut flowchartnya
 
-<img src="/.images/pertama.png" width="500" alt="Flowchart">
+![image](https://github.com/user-attachments/assets/f58a00b8-cd7c-494f-b954-24809b793825)
+
 
 **Program akan meminta kita untuk memasukkan 3 angka untuk dibandingkan :**
 
-<img src="/.image/<img width="727" alt="Output 1" src="https://github.com/user-attachments/assets/a21a3911-a422-4fef-a6a8-cddb16b9d186">
-" width="500" alt="output">
+<img width="727" alt="Output 1" src="https://github.com/user-attachments/assets/a21a3911-a422-4fef-a6a8-cddb16b9d186">
 
 **Penjelasan Code**
 
